@@ -1,0 +1,46 @@
+
+
+
+.nav-link {
+    color: white;
+    /* margin-left: 20px; */
+    text-decoration: none;
+
+  } 
+
+  
+.navbar-brand  {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+ .login{
+    /* background-color:rgb(54, 69, 79); */
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color:white;
+  }  
+
+  .login1{
+  
+    background-image: url(../images/y.jpg);
+    background-size: cover;
+    background-position: center; /* Center the background image */
+   
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    height: 100vh; /* Ensure the section takes up the full viewport height */
+    color: white; /* Text color */
+   
+  }
+  
+  

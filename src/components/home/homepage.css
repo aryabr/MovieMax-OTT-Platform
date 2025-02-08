@@ -1,0 +1,23 @@
+
+
+
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: rgb(41, 39, 39); */
+    background-color: #802201;
+    background-image: linear-gradient(326deg, #802201 0%, #210d10 74%);
+
+    /* background-color: rgb(41, 39, 39); */
+    background-size: cover;
+    background-position: center;  /* Center the background image */
+    background-repeat: no-repeat;  /* Prevent the background image from repeating */
+    height: 240vh;  /* Make sure it takes the full height of the viewport */
+    /* Text color */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+  }
+  
+
+

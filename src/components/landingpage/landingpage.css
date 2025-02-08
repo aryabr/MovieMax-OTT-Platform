@@ -1,0 +1,79 @@
+.landingpage {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  background-image: url(../images/landing.jpg);
+  background-size: cover;
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
+  height: 110vh; /* Ensure the section takes up the full viewport height */
+  color: white; /* Text color */
+ 
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+  
+.navbar-brand  {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5 em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.nav-link {
+  color: white;
+  /* margin-left: 20px; */
+  text-decoration: none;
+
+} 
+
+
+
+
+
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* width: 60%; */
+  min-height: 90vh; /* Ensure the section takes at least 100vh */
+  text-align: center; 
+ 
+
+}
+
+.main1 {
+  width: 100%;
+  min-height: 100vh; /* Ensure the section takes at least 100vh */
+  text-align: center;
+  padding: 160px 60px 60px 10px; 
+  background-image: url(../images/back.jpg);
+  background-size: cover; /* Ensure the background image covers the entire section */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
+  background-position: center; /* Center the background image */
+  /* margin-top: 10px; */
+}
+
+.main h1, .main button, .main p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main button {
+  background-color: rgb(64, 17, 17);
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.footer {
+  width: 100%;
+  text-align: center;
+  margin-top: 500px; 
+  
+}
